@@ -166,7 +166,7 @@ items = [
 
 # British
 ["british_carbine", "Cavalry Carbine", [("paget_carabine",0)], itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_while_moving_mounted|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.0)|difficulty(0)|spd_rtng(27) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(65),imodbits_none,[]],
+683 , weight(3.0)|difficulty(0)|spd_rtng(47) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(65),imodbits_none,[]],
 ["british_carbine_melee", "Cavalry Carbine", [("paget_carabine",0)], itp_has_upper_stab|itp_type_polearm |itp_primary|itp_no_blur|itp_offset_musket,itc_musket_melee|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(86) | weapon_length(50)|swing_damage(23 , blunt) | thrust_damage(12,  blunt),imodbits_none ],
 ["british_carbine_ai", "Cavalry Carbine", [("paget_carabine",0)], itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_while_moving_mounted|itp_cant_reload_while_moving ,itcf_shoot_musket|itcf_carry_crossbow_back,
