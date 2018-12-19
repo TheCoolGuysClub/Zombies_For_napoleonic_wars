@@ -233,7 +233,7 @@ items = [
 #Muskets
 # French
 ["french_charleville", "Infantry Musket", [("french_charleville",0)], itp_cant_use_on_horseback|itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_on_horseback|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.5)|difficulty(0)|spd_rtng(23) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,[]],
+683 , weight(3.5)|difficulty(0)|spd_rtng(29) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(80),imodbits_none,[]],
 # [(ti_on_weapon_attack, [(store_trigger_param_1,":user_agent"),(call_script, "script_server_fire_musket", ":user_agent", firearm_type_musket),])]],
 ["french_charleville_melee", "Infantry Musket", [("french_charleville",0)], itp_cant_use_on_horseback|itp_has_upper_stab|itp_type_polearm |itp_primary|itp_is_pike|itp_no_blur,itc_spear|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(85) | weapon_length(138)|swing_damage(40 ,  pierce) | thrust_damage(45 ,  pierce),imodbits_none ],
@@ -245,26 +245,26 @@ items = [
 
 # British
 ["british_brown_bess", "Infantry Musket", [("brown_bess_musket",0)], itp_cant_use_on_horseback|itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_on_horseback|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.5)|difficulty(0)|spd_rtng(23) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,[]],
+683 , weight(3.5)|difficulty(0)|spd_rtng(29) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(80),imodbits_none,[]],
 ["british_brown_bess_melee", "Infantry Musket", [("brown_bess_musket",0)], itp_cant_use_on_horseback|itp_has_upper_stab|itp_type_polearm |itp_primary|itp_is_pike|itp_no_blur,itc_spear|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(85) | weapon_length(136)|swing_damage(40 ,  pierce) | thrust_damage(45 ,  pierce),imodbits_none ],
 
 # Russian
 ["russian_musket_1808", "Infantry Musket", [("Russian_musket_1808",0)], itp_cant_use_on_horseback|itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_on_horseback|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.5)|difficulty(0)|spd_rtng(23) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,[]],
+683 , weight(3.5)|difficulty(0)|spd_rtng(29) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(80),imodbits_none,[]],
 # [(ti_on_weapon_attack, [(store_trigger_param_1,":user_agent"),(call_script, "script_server_fire_musket", ":user_agent", firearm_type_musket),])]],
 ["russian_musket_1808_melee", "Infantry Musket", [("Russian_musket_1808",0)], itp_cant_use_on_horseback|itp_has_upper_stab|itp_type_polearm |itp_primary|itp_is_pike|itp_no_blur,itc_spear|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(85) | weapon_length(138)|swing_damage(40 ,  pierce) | thrust_damage(45 ,  pierce),imodbits_none ],
 
 # Austrian
 ["austrian_musket", "Infantry Musket", [("austrian_musket",0)], itp_cant_use_on_horseback|itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_on_horseback|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.5)|difficulty(0)|spd_rtng(23) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,[]],
+683 , weight(3.5)|difficulty(0)|spd_rtng(29) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(80),imodbits_none,[]],
 ["austrian_musket_melee", "Infantry Musket", [("austrian_musket",0)], itp_cant_use_on_horseback|itp_has_upper_stab|itp_type_polearm |itp_primary|itp_is_pike|itp_no_blur,itc_spear|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(85) | weapon_length(138)|swing_damage(40 ,  pierce) | thrust_damage(45 ,  pierce),imodbits_none ],
 
 # Prussian
 ["prussian_potsdam", "Infantry Musket", [("potsdam_musket",0)], itp_cant_use_on_horseback|itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed|itp_cant_reload_on_horseback|itp_cant_reload_while_moving|itp_next_item_as_melee ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.5)|difficulty(0)|spd_rtng(23) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,[]],
+683 , weight(3.5)|difficulty(0)|spd_rtng(29) | shoot_speed(250) | thrust_damage(100 ,pierce)|max_ammo(1)|accuracy(80),imodbits_none,[]],
 ["prussian_potsdam_melee", "Infantry Musket", [("potsdam_musket",0)], itp_cant_use_on_horseback|itp_has_upper_stab|itp_type_polearm |itp_primary|itp_is_pike|itp_no_blur,itc_spear|itcf_carry_crossbow_back,
 180 , weight(0)|difficulty(0)|spd_rtng(85) | weapon_length(138)|swing_damage(40 ,  pierce) | thrust_damage(45 ,  pierce),imodbits_none ],
 
