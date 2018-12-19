@@ -272,13 +272,13 @@ items = [
  # Swords
 # French
  ["french_art_off_sword","Artillery Officer Sword", [("Artillery_officer_sword",0),("Artillery_officer_sword_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(108)|swing_damage(32 , cut) | thrust_damage(29 ,  pierce),imodbits_sword_high ],
+210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(108)|swing_damage(36 , cut) | thrust_damage(29 ,  pierce),imodbits_sword_high ],
  ["french_carabineer_sword","Carabineer Sword", [("Carabineer_sword",0),("Carabineer_sword_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
 210 , weight(3.0)|difficulty(0)|spd_rtng(75) | weapon_length(110)|swing_damage(36 , cut) | thrust_damage(32 ,  pierce),imodbits_sword_high ],
  ["french_briquet_garde","Sabre Briquet", [("Garde_briquet",0),("Guard_briquet_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.6)|difficulty(0)|spd_rtng(75) | weapon_length(77)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.6)|difficulty(0)|spd_rtng(75) | weapon_length(77)|swing_damage(36 , pierce) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
  ["french_light_cav_sabre_garde","Light Cavalry Sabre", [("Garde_light_cav_sabre",0),("Garde_light_cav_sabre_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(2.0)|difficulty(0)|spd_rtng(75) | weapon_length(102)|swing_damage(33 , cut) | thrust_damage(30 ,  pierce),imodbits_sword_high ],
+210 , weight(2.0)|difficulty(0)|spd_rtng(75) | weapon_length(102)|swing_damage(36 , cut) | thrust_damage(30 ,  pierce),imodbits_sword_high ],
  ["french_heavy_cav_sabre_garde","Heavy Cavalry Sabre", [("Guard_heavy_cavalry_sabre",0),("Guard_heavy_cavalry_sabre_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
 210 , weight(3.0)|difficulty(0)|spd_rtng(75) | weapon_length(111)|swing_damage(36 , cut) | thrust_damage(34 ,  pierce),imodbits_sword_high ],
  ["french_inf_off_sabre_garde","Imperial Guard Officer Sabre", [("Guard_infantry_officer_sabre",0),("Guard_infantry_officer_sabre_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
