@@ -542,6 +542,7 @@ operation partners and supporters, who are integral for our success.\
  # ("s1_defended_castle", "{s1} defended their fort!"),
 #("s1_captured_castle", "{s1} captured the fort!"),
 
+#paper
   ("s1_defended_castle", "The humans have survived!"),
   ("s1_captured_castle", "Zombies killed all the humans!"),
 
