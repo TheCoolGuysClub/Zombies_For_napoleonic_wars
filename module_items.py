@@ -374,24 +374,24 @@ items = [
 
 #Austrian
  ["austrian_infantry_briquet","Sword Bayonet", [("Austrian_infantry_briquet",0),("Austrian_infantry_briquet_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["austrian_infantry_briquet_black","Sword Bayonet", [("Austrian_infantry_briquet",0),("Austrian_infantry_briquet_black_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["austrian_jaeger_bayonet","Sword Bayonet", [("Austrian_jaeger_bayonet",0),("Austrian_jaeger_bayonet_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["austrian_jaeger_bayonet_invis","Sword Bayonet", [("Austrian_jaeger_bayonet",0),("mm_invisible",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
 
 
 # Prussia
  ["russian_briquet_1807_black","Sabre Briquet", [("Russian_briquet_1807",0),("Tesak_black_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["russian_briquet_1807_black_blackbelt","Sabre Briquet", [("Russian_briquet_1807",0),("Tesak_black_blackbelt_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["russian_briquet_1807_landwehr","Sabre Briquet", [("Russian_briquet_1807",0),("Tesak_landwehr_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(32 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["russian_peasant_axe_landwehr", "Hand Axe", [("Russian_peasant_axe",0),("Axe_landwehr_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_parry, itc_scimitar|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-87 , weight(1.5)|difficulty(9)|spd_rtng(90) | weapon_length(40)|swing_damage(33 , cut) | thrust_damage(0 ,  pierce),imodbits_axe ],
+87 , weight(1.5)|difficulty(9)|spd_rtng(90) | weapon_length(40)|swing_damage(40 , cut) | thrust_damage(0 ,  pierce),imodbits_axe ],
 
 
 # fake stuff for stupid bots
