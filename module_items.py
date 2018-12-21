@@ -473,11 +473,11 @@ items = [
 
  #Lances and other polearms
 #French
-["french_lance", "Lance", [("Lance_french",0)], itp_has_upper_stab|itp_couchable|itp_type_polearm|itp_offset_lance|itp_no_parry| itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_is_pike|itp_no_blur, itc_lance,
+["french_lance", "Lance", [("Lance_french",0)], itp_has_upper_stab|itp_couchable|itp_type_polearm|itp_offset_lance| itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_is_pike|itp_no_blur, itc_lance,
  180 , weight(2.5)|difficulty(0)|spd_rtng(76) | weapon_length(185)|swing_damage(25 ,  pierce) | thrust_damage(30 ,  pierce),imodbits_polearm ],
 
 #Prussian
-["prussian_lance", "Lance", [("lance_prussia",0)], itp_has_upper_stab|itp_couchable|itp_type_polearm|itp_offset_lance|itp_no_parry| itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_is_pike|itp_no_blur, itc_lance,
+["prussian_lance", "Lance", [("lance_prussia",0)], itp_has_upper_stab|itp_couchable|itp_type_polearm|itp_offset_lance| itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_is_pike|itp_no_blur, itc_lance,
  180 , weight(2.5)|difficulty(0)|spd_rtng(76) | weapon_length(185)|swing_damage(25 ,  pierce) | thrust_damage(30 ,  pierce),imodbits_polearm ],
 
 #Austrian
