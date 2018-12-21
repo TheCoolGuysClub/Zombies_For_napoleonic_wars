@@ -361,15 +361,15 @@ items = [
  ["british_heavy_cav_sword","Heavy Cavalry Sword", [("1796_heavy_cavalry_sword",0),("1796_heavy_cavalry_sword_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
 210 , weight(3.0)|difficulty(0)|spd_rtng(75) | weapon_length(111)|swing_damage(36 , cut) | thrust_damage(32 ,  pierce),imodbits_sword_high ],
  ["british_light_cav_sabre","Light Cavalry Sabre", [("1796_light_cavalry_saber",0),("1796_light_cavalry_saber_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(2.0)|difficulty(0)|spd_rtng(75) | weapon_length(101)|swing_damage(33 , cut) | thrust_damage(30 ,  pierce),imodbits_sword_high ],
+210 , weight(2.0)|difficulty(0)|spd_rtng(75) | weapon_length(101)|swing_damage(36 , cut) | thrust_damage(32 ,  pierce),imodbits_sword_high ],
  ["british_baker_bayonet","Sword Bayonet", [("British_baker_bayonet",0),("British_baker_bayonet_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(36 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["british_musician_sword","Sword", [("British_musician_sword",0),("British_musician_sword_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(36 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["british_musician_sword_invis","Sword", [("British_musician_sword",0),("mm_invisible",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(22 , cut) | thrust_damage(20 ,  pierce),imodbits_sword_high ],
+210 , weight(1.2)|difficulty(0)|spd_rtng(95) | weapon_length(63)|swing_damage(36 , cut) | thrust_damage(40 ,  pierce),imodbits_sword_high ],
  ["british_officer_sword","Officer Sword", [("Russian_officer_sword",0),("British_officer_sword_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(100)|swing_damage(32 , cut) | thrust_damage(29 ,  pierce),imodbits_sword_high ],
+210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(100)|swing_damage(36 , cut) | thrust_damage(32 ,  pierce),imodbits_sword_high ],
 
 
 #Austrian
