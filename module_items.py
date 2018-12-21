@@ -468,7 +468,7 @@ items = [
 ["cannon_cartridge_bomb", "Mortar Bomb", [("mortar_cartdridge",0)], itp_type_thrown |itp_merchandise,0,
  360, weight(5)|difficulty(0)|spd_rtng(70) | shoot_speed(0) | thrust_damage(1,blunt)|max_ammo(1)|weapon_length(5),imodbits_none],
 ["rockets", "Rockets", [("rocket",0)], itp_type_thrown |itp_merchandise,0,
- 360, weight(5)|difficulty(0)|spd_rtng(70) | shoot_speed(0) | thrust_damage(1,blunt)|max_ammo(100)|weapon_length(5),imodbits_none],
+ 360, weight(5)|difficulty(0)|spd_rtng(70) | shoot_speed(0) | thrust_damage(1,blunt)|max_ammo(500)|weapon_length(5),imodbits_none],
 
 
  #Lances and other polearms
