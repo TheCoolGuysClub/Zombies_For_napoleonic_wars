@@ -1312,11 +1312,11 @@ troops = [
 # Quick Battle troops.
   ["quick_battle_troop_britain_1","Arthur Wellesley","General",tf_hero,0,0,fac_britain,
    [itm_british_wellington,itm_british_wellington_pants,itm_british_wellington_bicorne,itm_heavy_horse_britain,itm_french_line_cav_sabre,itm_officer_gloves,itm_spyglass],
-   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_6|knows_ironflesh_10|knows_power_strike_3,swadian_face_middle_1, swadian_face_old_2],
+   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_10|knows_ironflesh_10|knows_power_strike_10,swadian_face_middle_1, swadian_face_old_2],
 
   ["quick_battle_troop_france_1","Napoleon Bonaparte","Emperor",tf_hero,0,0,fac_france,
    [itm_french_general_body_boney,itm_french_general_boots,itm_french_nappy_hat,itm_french_line_cav_sabre,itm_carabineer_horse_french_officer,itm_officer_gloves,itm_spyglass],
-   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_6|knows_ironflesh_10|knows_power_strike_3,swadian_face_middle_1, swadian_face_old_2],
+   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_10|knows_ironflesh_10|knows_power_strike_10,swadian_face_middle_1, swadian_face_old_2],
 #  ["quick_battle_troop_france_2","Marshal Lannes","Marshal",tf_hero,0,0,fac_france,
 #   [itm_french_art_officer_body,itm_french_voltigeur_officer_pants,itm_french_inf_bicorne_45_officer,itm_french_line_cav_sabre,itm_heavy_horse_placeholder,itm_officer_gloves],
 #   def_attrib|level(20),wpex(150,5,30,5,80,5),knows_common|knows_riding_6|knows_ironflesh_5|knows_power_strike_3,0x000000002004400436db6db8cba1bafa00000000001eb6db0000000000000000, swadian_face_old_2],
@@ -1326,15 +1326,15 @@ troops = [
 
   ["quick_battle_troop_prussia_1","Gebhard von Blucher","General",tf_hero,0,0,fac_prussia,
    [itm_prussian_blucher,itm_prussian_blucher_pants,itm_prussian_blucher_hat,itm_russian_guard_sword_1799,itm_heavy_horse_prussia_1,itm_officer_gloves,itm_spyglass],
-   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_6|knows_ironflesh_10|knows_power_strike_3,swadian_face_middle_1, swadian_face_old_2],
+   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_10|knows_ironflesh_10|knows_power_strike_10,swadian_face_middle_1, swadian_face_old_2],
 
   ["quick_battle_troop_russia_1","Mikhail Kutuzov","General",tf_hero,0,0,fac_russia,
    [itm_kutuzov,itm_rus_kutuzov_pants,itm_kutuzov_hat,itm_russian_guard_sword_1799,itm_heavy_horse_russia,itm_officer_gloves,itm_spyglass],
-   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_6|knows_ironflesh_10|knows_power_strike_3,swadian_face_middle_1, swadian_face_old_2],
+   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_10|knows_ironflesh_10|knows_power_strike_10,swadian_face_middle_1, swadian_face_old_2],
 
   ["quick_battle_troop_austria_1","Karl Philipp","General",tf_mounted|tf_guarantee_all,0,0,fac_austria,
    [itm_austrian_schwarzenberg,itm_austrian_schwarzenberg_pants,itm_aus_shwarzenberg_bicorn,itm_british_heavy_cav_sword,itm_heavy_horse_austria,itm_officer_gloves,itm_spyglass],
-   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_6|knows_ironflesh_10|knows_power_strike_3,swadian_face_middle_1, swadian_face_old_2],
+   def_attrib|level(20),wpex(130,5,30,5,30,5),knows_common|knows_riding_10|knows_ironflesh_10|knows_power_strike_10,swadian_face_middle_1, swadian_face_old_2],
 
    ["quick_battle_troops_end","{!}quick_battle_troops_end","{!}quick_battle_troops_end", 0, 0, 0, fac_austria, [], 0, 0, 0, 0, 0],
 
