@@ -357,7 +357,7 @@ items = [
 
 # British
  ["british_highlander_officer_sword","Highlander Officer Sword", [("scottish_broadsword",0),("scottish_broadsword_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
-210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(96)|swing_damage(32 , cut) | thrust_damage(29 ,  pierce),imodbits_sword_high ],
+210 , weight(1.5)|difficulty(0)|spd_rtng(75) | weapon_length(96)|swing_damage(46 , cut) | thrust_damage(45 ,  pierce),imodbits_sword_high ],
  ["british_heavy_cav_sword","Heavy Cavalry Sword", [("1796_heavy_cavalry_sword",0),("1796_heavy_cavalry_sword_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
 210 , weight(3.0)|difficulty(0)|spd_rtng(75) | weapon_length(111)|swing_damage(36 , cut) | thrust_damage(32 ,  pierce),imodbits_sword_high ],
  ["british_light_cav_sabre","Light Cavalry Sabre", [("1796_light_cavalry_saber",0),("1796_light_cavalry_saber_in_scabbard",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_longsword|itcf_carry_sword_left_hip|itcf_show_holster_when_drawn,
