@@ -189,10 +189,10 @@ items = [
 
 #Cheat
 ["sniper_rifle", "Sniper Rifle", [("Russian_rifle_1805",0)], itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed ,itcf_shoot_musket|itcf_reload_pistol|itcf_carry_crossbow_back,
-683 , weight(3.0)|difficulty(0)|spd_rtng(300) | shoot_speed(250) | thrust_damage(300 ,pierce)|max_ammo(40)|accuracy(100),imodbits_none,[]],
+683 , weight(0.0)|difficulty(0)|spd_rtng(300) | shoot_speed(250) | thrust_damage(300 ,pierce)|max_ammo(40)|accuracy(100),imodbits_none,[]],
 # [(ti_on_weapon_attack, [(store_trigger_param_1,":user_agent"),(call_script, "script_server_fire_musket", ":user_agent", firearm_type_rifle)])]],
 ["blunderbluss", "Blunderbluss", [("Russian_gusarskiy_karabin",0)], itp_type_crossbow |itp_merchandise|itp_primary|itp_two_handed ,itcf_shoot_musket|itcf_carry_crossbow_back,
-683 , weight(3.0)|difficulty(0)|spd_rtng(150) | shoot_speed(200) | thrust_damage(300 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,
+683 , weight(0.0)|difficulty(0)|spd_rtng(150) | shoot_speed(200) | thrust_damage(300 ,pierce)|max_ammo(1)|accuracy(75),imodbits_none,
  [(ti_on_weapon_attack, [
   (this_or_next|multiplayer_is_server),
   (neg|game_in_multiplayer_mode),
